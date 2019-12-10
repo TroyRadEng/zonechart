@@ -4,7 +4,7 @@ The Zone Chart Assigner assigns roommates to chores within the house by dividing
 
 There is also a "do not do this chore" list for each individual.  For instance, a person living downstairs may not want to clean an upstairs bathroom that they do not use. The Assigner makes sure that nobody is assigned a task on their "do not do" list.
 
-Ultimately the Assigner works like this: it shuffles the roomates into random order, then goes down the list of roommates and assigns them the most urgent chore (or a chore tied for most urgent) that is not on their "do not do" list.  It continues until all roommates have been assigned a chore for the time period.
+Ultimately the Assigner works like this: it shuffles the roomates into random order, then goes down the list of roommates and assigns each one the most urgent chore (or a chore tied for most urgent) that is not on their "do not do" list.  It continues until all roommates have been assigned a chore for the time period.
 
 ## notes on UI / dashboard
 
